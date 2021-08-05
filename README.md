@@ -3,14 +3,13 @@
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JonathanTSilva/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JonathanTSilva/)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEqsLtzTIW-M81vMbQ8msnQ/featured)
-[![](ttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jonathan.t@aluno.ifsp.edu.br)
-
+[![](ttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.t@aluno.ifsp.edu.br)
 
 ## Glad to see you here! &nbsp; [![](https://views.whatilearened.today/views/github/JonathanTSilva/JonathanTSilva.svg)](http://github.com/JonathanTSilva/JonathanTSilva)
 
 I'm an Electrical Engineer and researcher.
 
-As a mere science lover, I always seek to acquire knowledge to apply them in things that can change the world. It's possible, just believe! But remember: All for God! 🙏🏻
+As a mere science lover, I always seek to acquire knowledge to apply them in things that can change the world. It's possible, just believe! But remember: "for the Lord gives wisdom, from his mouth come knowledge and understanding." (Proverbs 2:6) 🙏🏻
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/w60Q8TMl92U5hCq3Zb/giphy.gif" height="318" />
 

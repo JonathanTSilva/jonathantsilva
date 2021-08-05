@@ -13,6 +13,8 @@ I'm Jonathan and I am currently based in Sertãozinho-SP (Brazil) working as an 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&theme=vue&show_icons=true" />
 </a>
 
+>> "The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.” (Steve Jobs)
+
 <!--
 **JonathanTSilva/JonathanTSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

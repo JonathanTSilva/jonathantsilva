@@ -25,19 +25,19 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 </br>
 
 ## My GitHub Stats 📈:
-<p>
+<p float="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<!--## Programming Languages and Technology:
+## Programming Languages and Technology:
 <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/c-original.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/cpp.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/python2.png' height='30'/>  <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/html.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/css.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/js.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/bootstrap.svg' width='33'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/sql.svg' width='30'/> 
  
 ## Technologies I Use:
 <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/git.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/nodejs.svg' width='33'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/react.svg' width='33'/>
 
 
-**JonathanTSilva/JonathanTSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**JonathanTSilva/JonathanTSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

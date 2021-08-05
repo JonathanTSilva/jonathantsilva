@@ -20,16 +20,15 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 * 📊 Lover of productivity and management;
 * 🤝 Interested in open source and free software projects;
 * 💬 Ask me about anything, I am happy to help;
-* 📫 How to reach me: jonathan.t@aluno.ifsp.edu.br;
-* ghj
+* 📫 How to reach me: jonathan.t@aluno.ifsp.edu.br.
+
+</br>
 
 ## My GitHub Stats 📈:
 <p>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-</br>
 
 ## Programming Languages and Technology:
 <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/c-original.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/cpp.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/python2.png' height='30'/>  <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/html.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/css.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/js.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/bootstrap.svg' width='33'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/sql.svg' width='30'/> 

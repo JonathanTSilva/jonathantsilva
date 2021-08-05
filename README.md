@@ -18,7 +18,7 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 * ✨ High leadership skills;
 * 🤝 Interested in open source and free software projects.
 * 💬 Ask me about anything, I am happy to help;
-* vfdchnfd
+* 📫 How to reach me: jonathan.silva@aluno.ifsp.edu.br
 * xcbzsvssdb
 * dsbsd
 * sfdhbwa
@@ -32,7 +32,7 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-## Programming Languages and Technology
+### Programming Languages and Technology
 
 <img src = 'https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' width='30'/>
 

@@ -22,8 +22,6 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 * 💬 Ask me about anything, I am happy to help;
 * 📫 How to reach me: jonathan.t@aluno.ifsp.edu.br;
 * ghj
-* fgdh
-
 
 ## 📈 My GitHub Stats:
 

@@ -4,8 +4,10 @@
 
 I'm Jonathan and I am currently based in Sertãozinho-SP (Brazil) working as an Electrical Engineer at Nova Smar S/A - Technology Company
 
+---
+
 <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&theme=vue&show_icons=true" />

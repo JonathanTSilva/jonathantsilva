@@ -23,7 +23,6 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 * 📫 How to reach me: jonathan.t@aluno.ifsp.edu.br.
 
 </br>
-</br>
 
 ## My GitHub Stats 📈:
 <p>

@@ -31,19 +31,19 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 </p>
 
 ### Programming Languages and Technology:
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/master/Images/c-original.svg' width='30'/> 
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/master/Images/cpp.svg' width='30'/> 
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/master/Images/python2.png' height='30'/>  
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/master/Images/html.svg' width='30'/> 
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/master/Images/css.svg' width='30'/> 
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/master/Images/js.svg' width='30'/> 
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/master/Images/bootstrap.svg' width='33'/> 
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/master/Images/sql.svg' width='30'/> 
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/c-original.svg' width='30'/> 
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/cpp.svg' width='30'/> 
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/python2.png' height='30'/>  
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/html.svg' width='30'/> 
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/css.svg' width='30'/> 
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/js.svg' width='30'/> 
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/bootstrap.svg' width='33'/> 
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/sql.svg' width='30'/> 
  
 ### Technologies I Use:
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/master/Images/git.svg' width='30'/> 
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/master/Images/nodejs.svg' width='33'/> 
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/master/Images/react.svg' width='33'/>
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/git.svg' width='30'/> 
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/nodejs.svg' width='33'/> 
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/react.svg' width='33'/>
 
 <!--
 **JonathanTSilva/JonathanTSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

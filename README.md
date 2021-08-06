@@ -13,7 +13,9 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/w60Q8TMl92U5hCq3Zb/giphy.gif" height="325" />
 
->"The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.” (Steve Jobs)
+>"The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.” 
+>
+>(Steve Jobs)
 
 ## Talking about Personal Stuffs:
 * ✨ High leadership skills;

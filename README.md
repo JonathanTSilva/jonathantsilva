@@ -15,7 +15,7 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 
 >"The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.” 
 >
->(Steve Jobs)
+>Steve Jobs
 
 ## Talking about Personal Stuffs:
 * ✨ High leadership skills;
@@ -27,8 +27,9 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 </br>
 
 ## My GitHub Stats 📈:
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p float="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ## Programming Languages and Technology:

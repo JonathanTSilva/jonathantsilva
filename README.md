@@ -7,7 +7,7 @@
 
 ## Glad to see you here! &nbsp; [![](https://views.whatilearened.today/views/github/JonathanTSilva/JonathanTSilva.svg)](http://github.com/JonathanTSilva/JonathanTSilva)
 
-I'm an Electrical Engineer and researcher.
+I'm an Electrical Engineer and researcher. I am currently based in Sertãozinho-SP (Brazil) working as an Electrical Engineer in the field of Industrial Automation.
 
 As a mere science lover, I always seek to acquire knowledge to apply them in things that can change the world. It's possible, just believe! But remember: "for the Lord gives wisdom, from his mouth come knowledge and understanding." (Proverbs 2:6) 🙏🏻
 
@@ -18,7 +18,6 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 ## Talking about Personal Stuffs:
 * ✨ High leadership skills;
 * 📊 Lover of productivity and management;
-* 
 * 🤝 Interested in open source and free software projects;
 * 💬 Ask me about anything, I am happy to help;
 * 📫 How to reach me: jonathan.t@aluno.ifsp.edu.br.
@@ -27,7 +26,7 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 
 ## My GitHub Stats 📈:
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ## Programming Languages and Technology:

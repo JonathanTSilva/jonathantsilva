@@ -34,27 +34,4 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 ![](https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
 
 ## Programming Languages and Technologies:
-<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/c-original.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/cpp.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/python2.png' height='30'/>  <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/html.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/css.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/js.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/bootstrap.svg' width='33'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/sql.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/git.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/nodejs.svg' width='33'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/react.svg' width='33'/>
-
-<!--**JonathanTSilva/JonathanTSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<a href="https://stackoverflow.com/help/badges/51/python?userid=562769"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
-
--->
+<img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/c-original.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/cpp.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/python2.png' height='30' hspace="20" />  <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/html.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/css.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/js.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/bootstrap.svg' width='33' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/sql.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/git.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/nodejs.svg' width='33' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/react.svg' width='33' hspace="20" />

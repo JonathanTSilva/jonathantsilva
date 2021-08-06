@@ -30,6 +30,10 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
+
 ## Programming Languages and Technologies:
 <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/c-original.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/cpp.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/python2.png' height='30'/>  <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/html.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/css.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/js.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/bootstrap.svg' width='33'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/sql.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/git.svg' width='30'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/nodejs.svg' width='33'/> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/react.svg' width='33'/>
 

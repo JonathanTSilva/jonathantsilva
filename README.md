@@ -39,6 +39,6 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 ## Subtitles for my Repository 🏷:
 | Initials     | Description           |
 | :----------- | :-----------:         |
-| SI           | Scientific Initiation |
-| FP           | Final Project         |
-| TP           | Templates             |
+| SI 🔬        | Scientific Initiation |
+| FP 🧾        | Final Project         |
+| TP 📚        | Templates             |

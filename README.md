@@ -18,7 +18,7 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 >Steve Jobs
 
 ## Talking about Personal Stuffs 🧑🏻:
-<!--* ✨ High leadership skills;-->
+* ✨ Learning concepts and applying them to other problems;
 * 📊 Lover of productivity and management;
 * 🤝 Interested in open source and free software projects;
 * 💬 Ask me about anything, I am happy to help;

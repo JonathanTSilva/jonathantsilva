@@ -25,10 +25,10 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 * 📫 How to reach me: jonathan.t@aluno.ifsp.edu.br.
 
 ## My GitHub Stats 📈:
-<!-- Utilizar este quando estiver mais linguagens e igualar as larguras das imagens, para ficarem side-by-side -->
+<!-- Utilizar este quando estiver mais linguagens e igualar as larguras das imagens, para ficarem side-by-side - normal é h=180 e w=420-->
 <p float="left">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p> 
 
 <!-- Utilizar este quando estiver desalinhando as imagens, uma em cima da outra 

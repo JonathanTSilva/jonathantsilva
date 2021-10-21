@@ -1,9 +1,10 @@
 ## Hi there, I'm <a href="https://www.github.com/JonathanTSilva/" target="_blank">Jonathan Silva</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.t@aluno.ifsp.edu.br)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JonathanTSilva/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JonathanTSilva/)
+[![](https://img.shields.io/badge/Orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2511-259X)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEqsLtzTIW-M81vMbQ8msnQ/featured)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.t@aluno.ifsp.edu.br)
 
 ## Glad to see you here! &nbsp; [![](https://views.whatilearened.today/views/github/JonathanTSilva/JonathanTSilva.svg)](http://github.com/JonathanTSilva/JonathanTSilva)
 

@@ -1,4 +1,4 @@
-<--! Texto 1 -->
+<!-- Texto 1 -->
 
 # Como fazer um _pull request_ corretamente
 
@@ -27,7 +27,7 @@
 
 
 
-<--! Texto 2 -->
+<!-- Texto 2 -->
 
 Contributing
 ----------------------------------
@@ -74,11 +74,17 @@ rules.
 
 
 
-<--! Texto 3 -->
+<!-- Texto 3 -->
 
-Por favor, tente criar relatórios de bugs que sejam:
+First off, thanks for taking the time to contribute! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
 
-Reprodutível. Inclua etapas para reproduzir o problema.
-Específico. Inclua o máximo de detalhes possível: qual versão, qual ambiente, etc.
-Único. Não duplique os problemas abertos existentes.
-Escopo para um único bug. Um bug por relatório.
+Please try to create bug reports that are:
+
+- _Reproducible._ Include steps to reproduce the problem.
+- _Specific._ Include as much detail as possible: which version, what environment, etc.
+- _Unique._ Do not duplicate existing opened issues.
+- _Scoped to a Single Bug._ One bug per report.
+
+Please adhere to this project's [code of conduct](docs/CODE_OF_CONDUCT.md).
+
+You can use [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) to check for common markdown style inconsistency.

@@ -46,7 +46,7 @@
 </details>
 
 <!-- CORPO-->
-## Sobre o Projeto
+## 📃 Sobre o Projeto
 
 <table>
   <tr>
@@ -65,55 +65,55 @@
   </tr>
 </table>
 
-### Construído com 
+### 🧱 Construído com 
 
-## Artigos
+## 📚 Artigos
 
-## Índice
+## 🔎 Índice
 
 - [ex1][]
   - [ex1][]
 
-## Instalação
+## 🚀 Instalação
 
-## Configuração
+## ⚙️ Configuração
 
-## Guia rápido
+## ✨ Guia rápido
 
-## Como funciona
+## 🛠️ Como funciona
 
-## Começando
+## 🔥 Começando
 
 ### Pré-requisitos
 
 ### Utilização
 
-## Suporte
+## 🔗 Links
 
-## Links
+## ✔️ Integrações de terceiros
 
-## Integrações de terceiros
+## 🙏 Agradecimentos
 
-## Agradecimentos
+## 💡 Características principais
 
-## Características principais
+## 🧰 Ferramentas
 
-## Ferramentas
+## 💭 Inspiração
 
-## Doações
+## ❤️ Doações
 
-## Contribuindo
+## 🤝 Contribuindo
 
 Se você quer contribuir com este projeto e aprimorá-lo, sua ajuda é sempre bem vinda! Por favor, leia as [diretrizes de contribuição][A] para contribuir corretamente. :tada:
 
 <!-- LICENÇA -->
 <a href="https://github.com/JonathanTSilva/ex-project/blob/main/LICENSE"><img width="100px" src="https://miro.medium.com/max/886/1*C87EjxGeMPrkTuVRVWVg4w.png" align="right" /></a>
 
-## Licença
+## 📝 Licença
 
 Distribuída por **MIT License**. Veja [LICENSE][B] para mais informações.
 
-## Contato
+## 📧 Contato
 
 :globe_with_meridians: [Jonathan T. da Silva][C] <br>
 :email: jonathantobias2009@hotmail.com <br>

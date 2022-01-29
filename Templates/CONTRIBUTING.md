@@ -1,3 +1,5 @@
+<--! Texto 1 -->
+
 # Como fazer um _pull request_ corretamente
 
 - Criar um _fork_ pessoal do projeto no GitHub;
@@ -25,10 +27,7 @@
 
 
 
-
-
-
-
+<--! Texto 2 -->
 
 Contributing
 ----------------------------------
@@ -71,3 +70,15 @@ make a pull request to move everything back into the main branch of the
 `repository`. Be sure to reference the original issue in the pull request.
 Expect some back-and-forth with regards to style and compliance of these
 rules.
+
+
+
+
+<--! Texto 3 -->
+
+Por favor, tente criar relatórios de bugs que sejam:
+
+Reprodutível. Inclua etapas para reproduzir o problema.
+Específico. Inclua o máximo de detalhes possível: qual versão, qual ambiente, etc.
+Único. Não duplique os problemas abertos existentes.
+Escopo para um único bug. Um bug por relatório.

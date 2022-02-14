@@ -18,19 +18,19 @@
 <!-- SHIELDS DO PROJETO -->
 <p align="center">
   <a href="https://github.com/JonathanTSilva/ex-project/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/JonathanTSilva/ex-project.svg?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/JonathanTSilva/ex-project.svg?style=flat" alt="Contributors">
   </a>
   <a href="https://github.com/JonathanTSilva/ex-project/network/members">
-    <img src="https://img.shields.io/github/forks/JonathanTSilva/ex-project.svg?style=for-the-badge" alt="Members">
+    <img src="https://img.shields.io/github/forks/JonathanTSilva/ex-project.svg?style=flat" alt="Members">
   </a>
   <a href="https://github.com/JonathanTSilva/ex-project/stargazers">
-    <img src="https://img.shields.io/github/stars/JonathanTSilva/ex-project.svg?style=for-the-badge" alt="Stargazers">
+    <img src="https://img.shields.io/github/stars/JonathanTSilva/ex-project.svg?style=flat" alt="Stargazers">
   </a>
   <a href="https://github.com/JonathanTSilva/ex-project/issues">
-    <img src="https://img.shields.io/github/issues/JonathanTSilva/ex-project.svg?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/issues/JonathanTSilva/ex-project.svg?style=flat" alt="Issues">
   </a>
   <a href="https://github.com/JonathanTSilva/ex-project/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/JonathanTSilva/ex-project.svg?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/license/JonathanTSilva/ex-project.svg?style=flat" alt="License">
   </a>
 </p>
 

@@ -1,3 +1,6 @@
+<!-- LOGO DIREITO -->
+<a href="#README_LIGHT"><img width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/04/university-of-sao-paulo-logo-freelogovectors.net_.png" align="right" /></a>
+
 # README_LIGHT
 
 > **Nota:** aqui vai o shield do seu projeto. Para criar, basta editar asvariáveis do endereço de acordo com as preferências. Para os logos, seguir a lista do [Simple Icons](https://simpleicons.org/). Se não existir seu logo, ler a questão [How do I use the 'logo' option in shields.io badges?](https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges) para maior customização.
@@ -14,8 +17,12 @@ Ex.:
   </a>
 </p>
 
+<!-- SUMÁRIO -->
+- Aqui vai o sumário do documento
+
 <!-- VOLTAR AO ÍNICIO -->
 <a href="#"><img width="40px" src="https://icons.veryicon.com/png/o/internet--web/property-2/back-to-top-1.png" align="right" /></a>
+
 ## Capítulo
 
 ### Seção
@@ -25,3 +32,10 @@ Ex.:
 ##### Tópico
 
 > **Nota:**
+
+<!-- MARKDOWN LINKS -->
+<!-- SITES -->
+[site1]: Aqui vai a URL do site1
+
+<!-- IMAGES -->
+[img1]: Aqui vai o endereço da imagem1

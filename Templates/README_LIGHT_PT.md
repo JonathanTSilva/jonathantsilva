@@ -21,7 +21,7 @@ Ex.:
 - Aqui vai o sumário do documento
 
 <!-- VOLTAR AO ÍNICIO -->
-<a href="#"><img width="40px" src="https://icons.veryicon.com/png/o/internet--web/property-2/back-to-top-1.png" align="right" /></a>
+<a href="#"><img width="40px" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/back-to-top.png" align="right" /></a>
 
 ## Capítulo
 

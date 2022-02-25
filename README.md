@@ -42,7 +42,7 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 | Initials     | Description              |  ▫  | Initials     | Description            |  ▫  | Initials     | Description              |
 | :----------- | :-----------:            | --- | :----------- | :-----------:          | --- | :----------- | :-----------:            |
 | SI           | 🔬 Scientific Initiation |  ▫  | PD           | 📝 Personal Documents |  ▫  |  OD            | 🌐 Open Documents   |
-| FP           | 🧾 Final Project         |  ▫  |              |                        |  ▫  |              |                          |
+| FP           | 🧾 Final Project         |  ▫  | CM           | 📖 Class Material      |  ▫  |              |                          |
 | TP           | 📚 Templates             |  ▫  |              |                        |  ▫  |              |                         |
 | HL           | 🛠 HomeLab               |  ▫  |              |                         |  ▫  |             |                          |
 

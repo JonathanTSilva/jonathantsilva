@@ -71,9 +71,6 @@ make a pull request to move everything back into the main branch of the
 Expect some back-and-forth with regards to style and compliance of these
 rules.
 
-
-
-
 <!-- Texto 3 -->
 
 First off, thanks for taking the time to contribute! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.

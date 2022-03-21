@@ -102,6 +102,18 @@
 
 ## ❤️ Doações
 
+## :rocket: Tech Stack
+
+## :warning: Prerequisite
+
+## :cd: How to run local
+
+## :mag_right: Testing
+
+## :globe_with_meridians: Deploy
+
+## :scroll: Todo
+
 ## 🤝 Contribuindo
 
 Se você quer contribuir com este projeto e aprimorá-lo, sua ajuda é sempre bem vinda! Por favor, leia as [diretrizes de contribuição][A] para contribuir corretamente. :tada:

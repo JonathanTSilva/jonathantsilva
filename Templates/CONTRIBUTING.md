@@ -22,19 +22,67 @@ Por favor, tente criar relatórios de bugs que sejam:
 Para qualquer contribuição, utilize as seguintes configurações do **editorconfig**:
 
 ```config
+root = true
 
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+curly_bracket_next_line = false
+spaces_around_operators = true
+
+[*.bat]
+end_of_line = crlf
+
+[*.cs]
+curly_bracket_next_line = true
+
+[*.{js,ts}]
+quote_type = single
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.tsv]
+indent_style = tab
 ```
 
 ### Para códigos:
 
 1. Escreva seus códigos em UTF-8;
-2. Arquitetura modular do usuário para agrupar funções, classes, etc;
-3. Tente limitar o comprimento da linha a 80 caracteres;
-6. Os nomes das classes devem ser sempre em maiúsculas (utilizar PascalCase);
-7. Os nomes das funções, variáveis, parâmetros, pacotes, atributos e métodos devem sempre estar em minúsculas (utilizar camelCase);
+2. Caso não tenha acesso ao editorconfig, sempre utilize 4 espaçoes de endentação (não utilize tabs)
+3. Arquitetura modular do usuário para agrupar funções, classes, etc;
+4. Tente limitar o comprimento da linha a 80 caracteres;
+6. Os nomes das classes devem ser sempre em maiúsculas (utilizar **PascalCase**);
+7. Os nomes das funções, variáveis, parâmetros, pacotes, atributos e métodos devem sempre estar em minúsculas (utilizar **camelCase**);
 8. Olhe para o estilo existente e siga de acordo.
 
 ### Para documentação:
+
+Nós temos dois estilos de documentação em Markdown: a **principal** e a **secundária**. Para melhor entender os estilos e estrutura de cada uma, observe as imagens abaixo:
+
+<p float="left">
+  <img src="../Images/main.png" width="150" />
+  <img src="../Images/second.png" width="150" /> 
+</p>
+
+1. Sempre agrupe os links das páginas no final do seu código .md (seguindo padrão abaixo), facilitando a manutenção de links defeituosos:
+
+```md
+Aqui tem um [link][1]
+
+Aqui tem uma imagem ![image][A]
+
+<!-- MARKDOWN LINKS -->
+<!-- SITES -->
+[1]: https://www.link1.org/
+
+<!-- IMAGES -->
+[A]: ../../Images/imagemA.png
+```
 
 
 

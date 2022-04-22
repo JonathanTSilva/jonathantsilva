@@ -62,7 +62,7 @@ indent_style = tab
 
 ### Para documentação:
 
-Nós temos dois estilos de documentação em Markdown: a **principal** e a **secundária**. Para melhor entender os estilos e estrutura de cada uma, observe as imagens abaixo:
+Nós temos dois estilos de documentação em Markdown: a de **respositórios** e a de **artigos**. Para melhor entender os estilos e estrutura de cada uma, observe as imagens abaixo:
 
 <p float="left">
   <img src="../Images/main.png" width="450" />
@@ -84,6 +84,11 @@ Aqui tem uma imagem ![image][A]
 [A]: ../../Images/imagemA.png
 ```
 
+2. Para documentação de repositório, os emojis para cada capítulo devem seguir o seguinte padrão:
+
+|Capítulo|Emoji||Capítulo|Emoji||Capítulo|Emoji|
+|:----|:----|:----|:----|:----|:----|:----|:----|
+|
 
 
 ## Fork do repositório

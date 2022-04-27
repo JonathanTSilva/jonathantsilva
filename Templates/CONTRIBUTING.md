@@ -86,9 +86,18 @@ Aqui tem uma imagem ![image][A]
 
 2. Para documentação de repositório, os emojis para cada capítulo devem seguir o seguinte padrão:
 
-|Capítulo|Emoji||Capítulo|Emoji||Capítulo|Emoji|
-|:----|:----|:----|:----|:----|:----|:----|:----|
-|
+|Capítulo|Emoji|▫|Capítulo|Emoji|▫|Capítulo|Emoji|
+|:----|:----:|:----:|:----|:----:|:----:|:----|:----:|
+|Agradecimentos|🙏|▫|Artigos|📚|▫|Características principais|💡|
+|Começando|🔥|▫|Como funciona|🛠️|▫|Como rodar localmente|💿|
+|Configuração|⚙️|▫|Contato|📧|▫|Contribuindo|🤝|
+|Construído com|🧱|▫|Deploy|🌐|▫|Doações|❤️|
+|Ferramentas|🧰|▫|Guia rápido|✨|▫|Índice|🔎|
+|Inspiração|💭|▫|Instalação|🚀|▫|Integrações de terceiros|✔️|
+|Licença|📝|▫|Links|🔗|▫|Pré-requisitos|⚠️|
+|Sobre o projeto|📃|▫|Testando|🧪|▫|Todo|📜|
+|||▫|||▫|||
+|||▫|||▫|||
 
 
 ## Fork do repositório

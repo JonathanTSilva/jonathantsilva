@@ -2,7 +2,7 @@
 
 Primeiramente, obrigado por dedicar um tempo para contribuir! As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer beneficiarão a todos e são **muito apreciadas**.
 
-> Observe que temos um [código de conduta](#), siga-o em todas as suas interações com o projeto.
+> Observe que temos um [código de conduta](../CODE_OF_CONDUCT.md), siga-o em todas as suas interações com o projeto.
 
 ## Registrar um problema
 

@@ -71,6 +71,8 @@ Nós temos dois estilos de documentação em Markdown: a de **respositórios** e
 
 1. Sempre agrupe os links das páginas no final do seu código .md (seguindo padrão abaixo), facilitando a manutenção de links defeituosos:
 
+> **Nota:** utilize sequência de números para sites e letras para imagens.
+
 ```md
 Aqui tem um [link][1]
 
@@ -96,7 +98,7 @@ Aqui tem uma imagem ![image][A]
 |Inspiração|💭|▫|Instalação|🚀|▫|Integrações de terceiros|✔️|
 |Licença|📝|▫|Links|🔗|▫|Pré-requisitos|⚠️|
 |Sobre o projeto|📃|▫|Testando|🧪|▫|Todo|📜|
-|||▫|||▫|||
+|Roadmap|🛣️|▫|||▫|||
 |||▫|||▫|||
 
 

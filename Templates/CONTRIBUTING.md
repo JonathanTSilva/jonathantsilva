@@ -101,6 +101,11 @@ Aqui tem uma imagem ![image][A]
 |Roadmap|🛣️|▫|||▫|||
 |||▫|||▫|||
 
+3. Os quadros de anotações, dicas, avisos, entre outros devem ser realizadas com o seguinte padrão:
+
+```plaintext
+> **Notas:** escreva aqui a descrição da sua nota.
+```
 
 ## Fork do repositório
 

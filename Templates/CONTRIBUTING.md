@@ -90,7 +90,7 @@ Aqui tem uma imagem ![image][A]
 
 |Capítulo|Emoji|▫|Capítulo|Emoji|▫|Capítulo|Emoji|
 |:----|:----:|:----:|:----|:----:|:----:|:----|:----:|
-|Agradecimentos|🙏|▫|Artigos|📚|▫|Características principais|💡|
+|Agradecimentos|🙏|▫|Artigos|📖|▫|Características principais|💡|
 |Começando|🔥|▫|Como funciona|🛠️|▫|Como rodar localmente|💿|
 |Configuração|⚙️|▫|Contato|📧|▫|Contribuindo|🤝|
 |Construído com|🧱|▫|Deploy|🌐|▫|Doações|❤️|
@@ -98,7 +98,7 @@ Aqui tem uma imagem ![image][A]
 |Inspiração|💭|▫|Instalação|🚀|▫|Integrações de terceiros|✔️|
 |Licença|📝|▫|Links|🔗|▫|Pré-requisitos|⚠️|
 |Sobre o projeto|📃|▫|Testando|🧪|▫|Todo|📜|
-|Roadmap|🛣️|▫|||▫|||
+|Roadmap|🛣️|▫|Bibliografia|📚|▫|||
 |||▫|||▫|||
 
 3. Os quadros de anotações, dicas, avisos, entre outros devem ser realizadas com o seguinte padrão:

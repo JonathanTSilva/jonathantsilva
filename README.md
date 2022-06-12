@@ -1,4 +1,4 @@
-## Hi there, I'm <a href="https://www.github.com/JonathanTSilva/" target="_blank">Jonathan Silva</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm <a href="https://www.github.com/JonathanTSilva/" target="_blank">Jonathan Silva</a> 👊🏻
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.t@aluno.ifsp.edu.br)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JonathanTSilva/)

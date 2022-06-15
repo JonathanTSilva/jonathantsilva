@@ -1,12 +1,12 @@
 # Contribuindo
 
-Primeiramente, obrigado por dedicar um tempo para contribuir! As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer beneficiarão a todos e são **muito apreciadas**.
+Primeiramente, obrigado por dedicar um tempo para contribuir! As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são **muito apreciadas** e beneficiarão a todos.
 
-> Observe que temos um [código de conduta](../CODE_OF_CONDUCT.md), siga-o em todas as suas interações com o projeto.
+> Observe que temos um [código de conduta](../CODE_OF_CONDUCT.md). Siga-o em todas as suas interações com o projeto.
 
 ## Registrar um problema
 
-Para contribuir com este projeto, é necessário a priori discutir a alteração que deseja fazer por meio de um issue, e-mail ou qualquer outro método com os proprietários deste repositório antes de fazer uma alteração.
+Para contribuir com este projeto, é necessário a priori discutir com os proprietários deste repositório a alteração que deseja fazer por meio de um *issue*, e-mail ou qualquer outro método, antes que seja feita uma alteração.
 
 Por favor, tente criar relatórios de bugs que sejam:
 
@@ -53,12 +53,12 @@ indent_style = tab
 ### Para códigos:
 
 1. Escreva seus códigos em UTF-8;
-2. Caso não tenha acesso ao editorconfig, sempre utilize 4 espaçoes de endentação (não utilize tabs)
+2. Caso não tenha acesso ao **editorconfig**, sempre utilize 4 espaços de endentação (não utilize tabs);
 3. Arquitetura modular do usuário para agrupar funções, classes, etc;
 4. Tente limitar o comprimento da linha a 80 caracteres;
-6. Os nomes das classes devem ser sempre em maiúsculas (utilizar **PascalCase**);
-7. Os nomes das funções, variáveis, parâmetros, pacotes, atributos e métodos devem sempre estar em minúsculas (utilizar **camelCase**);
-8. Olhe para o estilo existente e siga de acordo.
+5. Os nomes das classes devem ser sempre em maiúsculas (utilizar **PascalCase**);
+6. Os nomes das funções, variáveis, parâmetros, pacotes, atributos e métodos devem sempre estar em minúsculas (utilizar **camelCase**);
+7. Olhe para o estilo existente e siga o padrão.
 
 ### Para documentação:
 
@@ -69,7 +69,7 @@ Nós temos dois estilos de documentação em Markdown: a de **respositórios** e
   <img src="../Images/second.png" width="450" /> 
 </p>
 
-1. Sempre agrupe os links das páginas no final do seu código .md (seguindo padrão abaixo), facilitando a manutenção de links defeituosos:
+1. Sempre agrupe os links das páginas no final do seu código `.md` (seguindo padrão abaixo), facilitando a manutenção de links defeituosos:
 
 > **Nota:** utilize sequência de números para sites e letras para imagens.
 

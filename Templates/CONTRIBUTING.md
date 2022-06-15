@@ -99,9 +99,8 @@ Aqui tem uma imagem ![image][A]
 |Licença|📝|▫|Links|🔗|▫|Pré-requisitos|⚠️|
 |Sobre o projeto|📃|▫|Testando|🧪|▫|Todo|📜|
 |Roadmap|🛣️|▫|Bibliografia|📚|▫|||
-|||▫|||▫|||
 
-3. Os quadros de anotações, dicas, avisos, entre outros devem ser realizadas com o seguinte padrão:
+1. Os quadros de anotações, dicas, avisos, entre outros devem ser realizadas com o seguinte padrão:
 
 ```plaintext
 > **Notas:** escreva aqui a descrição da sua nota.
@@ -109,11 +108,11 @@ Aqui tem uma imagem ![image][A]
 
 ## Fork do repositório
 
-Certifique-se de adicionar os testes relevantes antes de fazer o _pull request_. Os documentos serão atualizado automaticamente quando mesclamos para a branch `main`, mas você também deve construir os documentos você mesmo e certifique-se de que eles sejam legíveis.
+Certifique-se de adicionar os testes relevantes antes de fazer o _pull request_. Os documentos serão atualizado automaticamente quando mesclamos para a branch `main`, mas é necessário também construir os documentos você mesmo e certificar-se de que eles sejam legíveis.
 
 ## Realizar o _pull request_
 
-Depois de fazer todas as alterações, testar e atualizar a documentação, faça um pull request para mover tudo de volta para o branch principal do `repositório`. Certifique-se de fazer referência ao problema original na solicitação pull. Espere um pouco de vai-e-vem com relação ao estilo e conformidade desses as regras.
+Depois de fazer todas as alterações, testar e atualizar a documentação, faça um *pull request* para mover tudo de volta para o branch principal do `repositório`. Certifique-se de fazer referência ao problema original na solicitação de pull. Para manter as conformidades com as regras do projeto, nessa etapa serão trocadas alterações e possíveis melhorias relacionadas ao estilo.
 
 ## Dúvidas frequentes (FAQ)
 
@@ -159,8 +158,6 @@ Para utilizá-lo, é preciso instalar a ferramenta [commitizen][3] em seu reposi
 [1]: https://www.atlassian.com/br/git/tutorials/rewriting-history/git-rebase
 [2]: https://www.conventionalcommits.org/en/v1.0.0/
 [3]: https://github.com/commitizen/cz-cli
-
-
 
 <!-- Texto 2 -->
 
@@ -223,4 +220,3 @@ Please adhere to this project's [code of conduct](docs/CODE_OF_CONDUCT.md).
 
 You can use [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) to check for common markdown style inconsistency.
 -->
-

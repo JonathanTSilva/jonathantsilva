@@ -44,7 +44,7 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 | SI           | 🔬 Scientific Initiation |  ▫  | PD           | 📝 Personal Documents      |  ▫  |  OD          | 🌐 Open Documents        |
 | FP           | 🧾 Final Project         |  ▫  | CM           | 📖 Class Material          |  ▫  |              |                          |
 | TP           | 📚 Templates             |  ▫  | ST           | ⚙️ Settings                 |  ▫  |              |                          |
-| HL           | 🛠 HomeLab               |  ▫  | [Kebab-case]  | :heavy_plus_sign: Projects |  ▫  |              |                          |
+| HL           | 🛠 HomeLab               |  ▫  | [Kebab]      | :heavy_plus_sign: Projects |  ▫  |              |                          |
 
 <!--
 ## Contributions ✔:

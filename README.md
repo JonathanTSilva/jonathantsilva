@@ -39,12 +39,12 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/c-original.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/cpp.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/shell.svg' height='30' hspace="20" />  <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/html.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/css.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/js.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/latex.png' width='33' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/sql.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/git.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/nodejs.svg' width='33' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/react.svg' width='33' hspace="20" />
 
 ## Subtitles for my Repository 🏷:
-| Initials     | Description              |  ▫  | Initials     | Description            |  ▫  | Initials     | Description              |
-| :----------- | :-----------:            | --- | :----------- | :-----------:          | --- | :----------- | :-----------:            |
-| SI           | 🔬 Scientific Initiation |  ▫  | PD           | 📝 Personal Documents |  ▫  |  OD          | 🌐 Open Documents        |
-| FP           | 🧾 Final Project         |  ▫  | CM           | 📖 Class Material     |  ▫  |              |                          |
-| TP           | 📚 Templates             |  ▫  | ST           | ⚙️ Settings           |  ▫  |              |                          |
-| HL           | 🛠 HomeLab               |  ▫  |              |                        |  ▫  |              |                          |
+| Initials     | Description              |  ▫  | Initials     | Description                |  ▫  | Initials     | Description              |
+| :----------- | :-----------:            | --- | :----------- | :-----------:              | --- | :----------- | :-----------:            |
+| SI           | 🔬 Scientific Initiation |  ▫  | PD           | 📝 Personal Documents      |  ▫  |  OD          | 🌐 Open Documents        |
+| FP           | 🧾 Final Project         |  ▫  | CM           | 📖 Class Material          |  ▫  |              |                          |
+| TP           | 📚 Templates             |  ▫  | ST           | ⚙️ Settings                 |  ▫  |              |                          |
+| HL           | 🛠 HomeLab               |  ▫  | [Kebab-case]  | :heavy_plus_sign: Projects |  ▫  |              |                          |
 
 <!--
 ## Contributions ✔:

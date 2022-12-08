@@ -46,7 +46,8 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 | TP           | 📚 Templates             |  ▫  | ST           | ⚙️ Settings                 |  ▫  |              |                          |
 | HL           | 🛠 HomeLab               |  ▫  | [Kebab]      | :heavy_plus_sign: Projects |  ▫  |              |                          |
 
-<!--
+
+<!-- SNAKE CONTRIBUTIONS
 ## Contributions ✔:
 ![animation](https://raw.githubusercontent.com/jonathantsilva/jonathantsilva/output/github-contribution-grid-snake.svg)
 -->

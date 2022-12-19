@@ -23,7 +23,7 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 * 📊 Lover of productivity and management;
 * 🤝 Interested in open source and free software projects;
 * 💬 Ask me about anything, I am happy to help;
-* 📫 How to reach me: jonathantobias2009@hotmail.com.
+* 📫 How to reach me: jonathantsilva@usp.br.
 
 ## My GitHub Stats 📈:
 <!-- Utilizar este quando estiver mais linguagens e igualar as larguras das imagens, para ficarem side-by-side - normal é h=180 e w=420-->

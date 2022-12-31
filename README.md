@@ -18,14 +18,14 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 >
 >Steve Jobs
 
-## Talking about Personal Stuffs 🧑🏻:
+## Talking about Personal Stuffs:
 * ✨ Learning concepts and applying them to other problems;
 * 📊 Lover of productivity and management;
 * 🤝 Interested in open source and free software projects;
 * 💬 Ask me about anything, I am happy to help;
 * 📫 How to reach me: jonathantsilva@usp.br.
 
-## My GitHub Stats 📈:
+## My GitHub Stats:
 <!-- Utilizar este quando estiver mais linguagens e igualar as larguras das imagens, para ficarem side-by-side - normal é h=180 e w=420-->
 <p float="left">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
@@ -35,10 +35,10 @@ As a mere science lover, I always seek to acquire knowledge to apply them in thi
 <!-- Utilizar este quando estiver desalinhando as imagens, uma em cima da outra 
 ![](https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8) -->
 
-## Programming Languages and Technologies 📚:
+## Programming Languages and Technologies:
 <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/c-original.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/python.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/shell.svg' height='30' hspace="20" />  <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/html.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/css.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/js.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/latex.png' width='33' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/sql.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/git.svg' width='30' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/nodejs.svg' width='33' hspace="20" /> <img src = 'https://github.com/JonathanTSilva/JonathanTSilva/blob/main/Images/react.svg' width='33' hspace="20" />
 
-## Subtitles for my Repository 🏷:
+## Subtitles for my Repository:
 | Initials     | Description              |  ▫  | Initials     | Description                |  ▫  | Initials     | Description              |
 | :----------- | :-----------:            | --- | :----------- | :-----------:              | --- | :----------- | :-----------:            |
 | SI           | 🔬 Scientific Initiation |  ▫  | PD           | 📝 Personal Documents      |  ▫  |  OD          | 🌐 Open Documents        |

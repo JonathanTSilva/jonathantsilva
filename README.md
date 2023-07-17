@@ -25,12 +25,13 @@ I firmly believe in the power of knowledge and its ability to shape our surround
 * 💬 Ask me about anything, I am happy to help you and learning together;
 * 📫 How to reach me: jonathantsilva@usp.br.
 
-## My GitHub Stats:
+
+<!-- ## My GitHub Stats: -->
 <!-- Utilizar este quando estiver mais linguagens e igualar as larguras das imagens, para ficarem side-by-side - normal é h=180 e w=420-->
-<p float="left">
+<!-- <p float="left">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+</p> -->
 
 <!-- Utilizar este quando estiver desalinhando as imagens, uma em cima da outra 
 ![](https://github-readme-stats.vercel.app/api?username=JonathanTSilva&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTSilva&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8) -->

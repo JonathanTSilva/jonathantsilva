@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-size: 12px;
+            font-family: "Courier New", Courier, monospace;
+            line-height: 0.8;
+        }
+        .handwritten {
+            font-family: "Allura", "Arizonia", "Italianno", cursive;
+            font-size: 14px;
+        }
+        .signature {
+            display: flex;
+            align-items: center;
+        }
+        .profile-photo {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            margin-right: 20px;
+        }
+        .text-container {
+            border-right: 1px solid lightgrey;
+            padding-right: 10px;
+            margin-right: 4px;
+        }
+        .name {
+            font-size: large;
+            font-weight: bold;
+            margin-bottom: 0;
+        }
+        .role {
+            font-weight: bold;
+            margin-top: 5px;
+            margin-bottom: 0;
+        }
+        .button-container {
+            font-weight: bold;
+            margin: 10px 0px;
+            align-items: left;
+            /* line-height: 0; margin-bottom: 0; */
+        }
+        .button {
+            display: flex;
+            align-items: center;
+            justify-content: left;
+            /* background-color: rgb(0, 0, 0); /* LargeView: #3d63ff; */
+            /* border: 1px solid #3d63ff; */
+            color: #3d63ff;
+            padding: 10px 32px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 12px;
+            cursor: pointer;
+            border-radius: 20px;
+            width: calc(100% - 150px); /* LargeView: 100% - 68px */
+            position: relative;
+        }
+        .button img {
+            position: absolute;
+            left: 0px;
+            margin-right: 0px;
+            width: 20px;
+            height: 20px;
+        }
+        .icon-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            /* border-left: 1px solid dimgray; */
+            padding-left: 10px;
+        }
+        .icon {
+            filter: brightness(0);
+            margin-top: 5px;
+            width: 20px;
+            height: 20px;
+            margin-bottom: 5px;
+        }
+        .disclaimer {
+            font-size: 10px;
+            font-style: italic;
+            color: grey;
+            max-width: 450px;
+        }
+        /* Styles for dark mode */
+        @media (prefers-color-scheme: light) {
+            body {
+                color: #fff; /* Light text */
+            }
+            .icon {
+                filter: brightness(0) invert(1); /* Light icons */
+            }
+        }
+        /* Styles for responsiveness */
+        @media (max-width: 500px) {
+            .signature {
+                flex-direction: column;
+                align-items: center;
+            }
+            .profile-photo {
+                margin-bottom: 10px;
+                /* center this image */
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .text-container {
+                border-right: none;
+                padding-right: 0;
+                margin-right: 0;
+                text-align: center;
+            }
+            .button-container {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                /* line-height: 0; margin-bottom: 0; */
+            }
+            .button {
+                margin-left: 20px;
+                width: 120px;
+                align-items: center;
+                justify-content: center;
+            }
+            .button img {
+                align-self: center;
+            }
+            .icon-container {
+                flex-direction: row;
+                justify-content: center;
+                padding-left: 10;
+                margin-top: 10px;
+            }
+            .icon {
+                margin-right: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <p class="handwritten">Best regards,</p>
+    <div class="signature">
+        <img src="/public/img/profile.jpg" alt="Profile Photo" class="profile-photo">
+        <div class="text-container">
+            <p class="name">Jonathan Tobias da Silva</p>
+            <p class="role">Research and Development Engineer</p>
+            <div class="button-container">
+                <a href="https://www.jonathantsilva.com" class="button">
+                <img src="/public/img/JTS2.png" alt="Icon">
+                jonathantsilva.com
+                </a>
+            </div>
+            <p>jonathantosilva@hotmail.com</p>
+            <p>+5516993232745</p>
+        </div>
+        <div class="icon-container">
+            <a href="https://www.linkedin.com/in/jonathantsilva"><img src="/public/img/linkedin-bw.png" alt="LinkedIn" class="icon"></a>
+            <a href="https://www.github.com/jonathantsilva"><img src="/public/img/github.png" alt="GitHub" class="icon"></a>
+            <a href="https://orcid.org/0000-0002-2511-259X"><img src="/public/img/orcid-bw.png" alt="ORCID" class="icon"></a>
+        </div>
+    </div>
+    <p class="disclaimer">IMPORTANT: The contents of this email and any attachments are confidential. If you are not the intended recipient, please notify the sender immediately and destroy all copies of the original message.</p>
+</body>
+</html>
+

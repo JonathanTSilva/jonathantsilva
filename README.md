@@ -12,7 +12,7 @@ I am an Electrical Engineer and dedicated researcher in Sertãozinho-SP, Brazil.
 
 I firmly believe in the power of knowledge and its ability to shape our surroundings. In all my endeavors, I strive to acquire wisdom and understanding, as mentioned in Proverbs 2:6: "For the Lord gives wisdom, from his mouth come knowledge and understanding." 🙏🏻 This guiding principle motivates me to constantly seek new knowledge and apply it to make a positive difference.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/w60Q8TMl92U5hCq3Zb/giphy.gif" height="325" />
+<img align="right" alt="GIF" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/jts-logo-animated.gif" height="325" />
 
 >"The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.” 
 >

@@ -1,7 +1,7 @@
 ## Hi there, I'm <a href="https://jonathantsilva.com/" target="_blank">Jonathan Silva</a> 👊🏻
 
 [![](https://img.shields.io/badge/Website-0678E3?style=for-the-badge)](https://jonathantsilva.com/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.t@aluno.ifsp.edu.br)
+<!-- [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.t@aluno.ifsp.edu.br) -->
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JonathanTSilva/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JonathanTSilva/)
 [![](https://img.shields.io/badge/Orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2511-259X)

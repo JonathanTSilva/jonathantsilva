@@ -11,23 +11,21 @@
 
 I am an Electrical Engineer and dedicated researcher in Sertãozinho-SP, Brazil. With my expertise in Electrical Engineering and experience in the R&D department of the Industrial Automation sector, I have developed a profound passion for science and its potential to drive impactful change in the world. 
 
-<img align="right" alt="GIF" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/jts-logo-animated-2.gif" height="200">
-
-I firmly believe in the power of knowledge and its ability to shape our surroundings. In all my endeavors, I strive to acquire wisdom and understanding, as mentioned in Proverbs 2:6: "For the Lord gives wisdom, from his mouth come knowledge and understanding." 🙏🏻 This guiding principle motivates me to constantly seek new knowledge and apply it to make a positive difference.
-
-
+<!-- I firmly believe in the power of knowledge and its ability to shape our surroundings. In all my endeavors, I strive to acquire wisdom and understanding, as mentioned in Proverbs 2:6: "For the Lord gives wisdom, from his mouth come knowledge and understanding." 🙏🏻 This guiding principle motivates me to constantly seek new knowledge and apply it to make a positive difference. -->
 
 >"The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it.” 
 >
 >Steve Jobs
 
-## Talking about Personal Stuffs:
+## Talking about Personal Stuff:
+
+<img align="right" alt="GIF" src="https://github.com/JonathanTSilva/JonathanTSilva/blob/main/assets/img/jts-logo-animated-2.gif" height="180">
 
 * ✨ Learning concepts and applying them to other problems;
 * 📊 Lover of productivity and management;
 * 🤝 Interested in open source and free software projects;
-* 💬 Ask me about anything, I am happy to help you and learning together;
-* 📫 How to reach me: jonathantsilva@usp.br.
+* 💬 Ask me about anything, I am happy to help you and learn together;
+* 📫 How to reach me: jonathantosilva@hotmail.com
 
 
 <!-- ## My GitHub Stats: -->

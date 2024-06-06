@@ -9,7 +9,7 @@
 
 ## Glad to see you here! &nbsp; [![](https://views.whatilearened.today/views/github/JonathanTSilva/JonathanTSilva.svg)](http://github.com/JonathanTSilva/JonathanTSilva)
 
-I am an Electrical Engineer and dedicated researcher in Sertãozinho-SP, Brazil. With my expertise in Electrical Engineering and experience in the R&D department of the Industrial Automation sector, I have developed a profound passion for science and its potential to drive impactful change in the world. 
+I am a MSc. Electrical Engineer and dedicated researcher. With my expertise in Software Engineering and experience in the R&D department of the Industrial Automation sector, I have developed a profound passion for science and its potential to drive impactful change in the world. 
 
 <!-- I firmly believe in the power of knowledge and its ability to shape our surroundings. In all my endeavors, I strive to acquire wisdom and understanding, as mentioned in Proverbs 2:6: "For the Lord gives wisdom, from his mouth come knowledge and understanding." 🙏🏻 This guiding principle motivates me to constantly seek new knowledge and apply it to make a positive difference. -->
 

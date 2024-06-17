@@ -45,7 +45,7 @@ I am a MSc. Electrical Engineer and dedicated researcher. With my expertise in S
 | Initials     | Description              |  ▫  | Initials     | Description                |  ▫  | Initials     | Description              |
 | :----------- | :-----------:            | --- | :----------- | :-----------:              | --- | :----------- | :-----------:            |
 | SI           | 🔬 Scientific Initiation |  ▫  | PD           | 📝 Personal Documents      |  ▫  |  OD          | 🌐 Open Documents        |
-| FP           | 🧾 Final Project         |  ▫  | CM           | 📖 Class Material          |  ▫  |              |                          |
+| FP           | 🧾 Final Project         |  ▫  | CM           | 📖 Class Material          |  ▫  |  FK            | :octocat: Fork          |
 | TP           | 📚 Templates             |  ▫  | ST           | ⚙️ Settings                 |  ▫  |              |                          |
 | HL           | 🛠 HomeLab               |  ▫  | [Kebab]      | :heavy_plus_sign: Projects |  ▫  |              |                          |
 

@@ -1,4 +1,4 @@
-## Hi there, I'm <a href="https://jonathantsilva.com/" target="_blank">Jonathan Silva</a> 👊🏻
+## Hi there, I'm <a href="https://jonathantsilva.com/" target="_blank">Jonathan Tobias</a> 👊🏻
 
 [![](https://img.shields.io/badge/Website-0678E3?style=for-the-badge)](https://jonathantsilva.com/)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/JonathanTSilva/)

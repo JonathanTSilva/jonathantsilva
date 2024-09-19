@@ -46,7 +46,7 @@ I am a MSc. Electrical Engineer and dedicated researcher. With my expertise in S
 | :----------- | :-----------:            | --- | :----------- | :-----------:              | --- | :----------- | :-----------:            |
 | SI           | 🔬 Scientific Initiation |  ▫  | PD           | 📝 Personal Documents      |  ▫  |  OD          | 🌐 Open Documents        |
 | FP           | 🧾 Final Project         |  ▫  | CM           | 📖 Class Material          |  ▫  |  FK            | :octocat: Fork          |
-| TP           | 📚 Templates             |  ▫  | ST           | ⚙️ Settings                 |  ▫  |              |                          |
+| TP           | 📚 Templates             |  ▫  | ST           | ⚙️ Settings                 |  ▫  |  OV          |  :closed_umbrella: Obsidian Vault  |
 | HL           | 🛠 HomeLab               |  ▫  | [Kebab]      | :heavy_plus_sign: Projects |  ▫  |              |                          |
 
 
